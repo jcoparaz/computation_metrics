@@ -1,4 +1,4 @@
-README
+# Computation of metrics to quantify MeSH concept relevance
 
 File 'requirements.txt' contains the needed libraries in a Python environment.
 
